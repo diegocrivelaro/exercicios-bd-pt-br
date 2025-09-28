@@ -111,6 +111,13 @@ Exemplo:
 
 ---
 
+⚠️ Sobre as imagens
+
+Os caminhos para imagens (images) foram mantidos no dataset para referência, mas as imagens originais não estão incluídas neste repositório.
+Isso evita problemas de direitos autorais, já que não temos permissão para redistribuí-las.
+
+---
+
 ## 🚀 Como usar
 
 * Escolha o arquivo que melhor se adapta ao seu caso (mínimo, parcial ou completo).
