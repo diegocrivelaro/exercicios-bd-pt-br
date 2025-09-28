@@ -1,6 +1,6 @@
-# Exercícios BD (PT-BR)
+# Exercícios Físicos BD (PT-BR)
 
-Mais de **800 exercícios** em português, organizados por categorias, músculos trabalhados e nível de dificuldade.
+Mais de **800 exercícios físicos** em português, organizados por categorias, músculos trabalhados e nível de dificuldade.
 
 Este repositório é uma versão **traduzida** do projeto original [free-exercise-db](https://github.com/yuhonas/free-exercise-db).
 
