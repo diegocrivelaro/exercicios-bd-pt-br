@@ -1,0 +1,87 @@
+{
+  "Abdômen": [
+    "Reto abdominal",
+    "Oblíquo externo",
+    "Oblíquo interno",
+    "Transverso do abdômen"
+  ],
+  "Antebraço": [
+    "Braquiorradial",
+    "Extensor radial do carpo",
+    "Flexor radial do carpo",
+    "Pronador redondo",
+    "Supinador"
+  ],
+  "Bíceps": [
+    "Bíceps braquial",
+    "Braquial",
+    "Coracobraquial"
+  ],
+  "Tríceps": [
+    "Tríceps braquial (cabeça longa)",
+    "Tríceps braquial (cabeça lateral)",
+    "Tríceps braquial (cabeça medial)"
+  ],
+  "Peito": [
+    "Peitoral maior (porção clavicular)",
+    "Peitoral maior (porção esternal)",
+    "Peitoral menor"
+  ],
+  "Ombros": [
+    "Deltoide anterior",
+    "Deltoide lateral",
+    "Deltoide posterior",
+    "Infraespinal",
+    "Supraespinal",
+    "Redondo menor",
+    "Redondo maior"
+  ],
+  "Dorsal": [
+    "Grande dorsal",
+    "Eretores da espinha",
+    "Romboides"
+  ],
+  "Trapézio": [
+    "Trapézio superior",
+    "Trapézio médio",
+    "Trapézio inferior"
+  ],
+  "Quadríceps": [
+    "Reto femoral",
+    "Vasto lateral",
+    "Vasto medial",
+    "Vasto intermédio"
+  ],
+  "Posterior de Coxa": [
+    "Bíceps femoral",
+    "Semitendinoso",
+    "Semimembranoso"
+  ],
+  "Glúteos": [
+    "Glúteo máximo",
+    "Glúteo médio",
+    "Glúteo mínimo"
+  ],
+  "Adutores": [
+    "Adutor longo",
+    "Adutor curto",
+    "Adutor magno",
+    "Grácil",
+    "Pectíneo"
+  ],
+  "Abdutores": [
+    "Tensor da fáscia lata",
+    "Glúteo médio",
+    "Glúteo mínimo"
+  ],
+  "Panturrilha": [
+    "Gastrocnêmio (medial e lateral)",
+    "Sóleo",
+    "Tibial posterior"
+  ],
+  "Pescoço": [
+    "Esternocleidomastoideo",
+    "Trapézio superior",
+    "Escalenos"
+  ]
+}
